@@ -8,6 +8,7 @@ def loc2bbox(src_bbox, loc):
     if src_bbox.size()[0] == 0:
         return torch.zeros((0, 4), dtype=loc.dtype)
 
+    #   确定先验框的位置 宽 高 中心点x,y
     src_width   = torch.unsqueeze(src_bbox[:, 2] - src_bbox[:, 0], -1)
     src_height  = torch.unsqueeze(src_bbox[:, 3] - src_bbox[:, 1], -1)
     src_ctr_x   = torch.unsqueeze(src_bbox[:, 0], -1) + 0.5 * src_width
@@ -18,6 +19,7 @@ def loc2bbox(src_bbox, loc):
     dw          = loc[:, 2::4]
     dh          = loc[:, 3::4]
 
+    #   对先验框进行调整  为了更好的框住物体
     ctr_x = dx * src_width + src_ctr_x
     ctr_y = dy * src_height + src_ctr_y
     w = torch.exp(dw) * src_width

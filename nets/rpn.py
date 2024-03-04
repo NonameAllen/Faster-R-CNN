@@ -13,8 +13,8 @@ class ProposalCreator():
         self, 
         mode, 
         nms_iou             = 0.7,
-        n_train_pre_nms     = 12000,
-        n_train_post_nms    = 600,
+        n_train_pre_nms     = 12000,#  先验框变建议框的数量（这里设置了12000个
+        n_train_post_nms    = 600,#     对上面的建议框再次进行筛选后传输的建议框数量（这里设置为600个
         n_test_pre_nms      = 3000,
         n_test_post_nms     = 300,
         min_size            = 16
