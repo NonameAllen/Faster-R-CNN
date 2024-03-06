@@ -1,0 +1,1352 @@
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0001.jpg 81,174,206,361,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0002.jpg 482,144,526,174,0 78,1,360,224,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0003.jpg 284,183,325,211,0 116,478,174,507,0 1,1,318,142,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0004.jpg 269,294,411,361,0 195,1,640,199,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0005.jpg 464,265,586,343,0 101,1,640,170,1 1,303,325,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0007.jpg 193,356,320,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0008.jpg 548,276,640,352,0 1,1,284,107,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0009.jpg 207,264,279,352,0 83,58,144,148,1 557,86,640,511,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0010.jpg 463,61,627,239,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0011.jpg 377,247,499,434,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0012.jpg 316,255,383,287,0 1,1,107,265,1 1,336,243,512,1 426,1,640,127,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0013.jpg 540,148,625,250,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0014.jpg 245,286,377,477,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0016.jpg 288,468,359,512,0 1,1,232,148,1 1,171,236,494,1 364,48,427,89,0 570,7,618,40,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0018.jpg 513,242,637,431,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0019.jpg 229,188,319,262,0 555,135,625,205,1 369,263,598,433,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0020.jpg 297,36,454,217,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0021.jpg 1,55,39,86,0 128,391,180,429,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0022.jpg 562,185,640,379,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0023.jpg 187,306,241,345,0 454,230,640,499,1 158,15,361,178,1 1,88,123,263,1 294,1,432,71,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0024.jpg 397,283,443,349,0 509,127,576,203,0 572,1,640,218,1 118,334,437,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0026.jpg 444,69,581,147,0 458,268,634,358,0 1,397,81,469,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0027.jpg 615,101,640,206,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0028.jpg 366,371,470,470,0 340,1,494,132,0 432,1,552,87,0 492,61,640,379,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0029.jpg 502,48,640,225,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0030.jpg 296,168,386,289,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0031.jpg 603,151,640,255,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0033.jpg 1,72,400,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0035.jpg 419,336,487,425,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0036.jpg 141,240,267,405,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0037.jpg 159,275,209,306,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0039.jpg 208,199,301,271,0 232,338,461,512,1 451,204,522,273,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0041.jpg 315,302,425,388,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0042.jpg 143,233,266,400,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0043.jpg 57,316,177,500,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0044.jpg 64,376,186,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0045.jpg 236,205,362,392,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0046.jpg 62,374,182,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0047.jpg 208,222,292,301,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0048.jpg 148,229,270,389,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0050.jpg 343,294,414,343,0 182,1,470,214,1 599,251,640,415,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0051.jpg 234,300,379,391,0 423,1,508,97,0 1,1,209,151,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0054.jpg 321,442,391,489,0 336,52,404,91,0 536,11,597,47,0 1,176,176,482,1 1,1,203,141,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0055.jpg 1,326,70,386,0 512,112,640,365,1 1,1,321,106,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0056.jpg 111,254,235,429,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0057.jpg 606,54,640,83,0 600,186,639,211,0 297,483,335,512,0 223,75,556,315,1 1,1,210,139,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0059.jpg 172,170,296,358,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0060.jpg 130,350,251,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0061.jpg 241,40,399,215,0 248,343,374,494,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0062.jpg 181,316,300,470,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0063.jpg 90,275,206,465,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0064.jpg 581,229,621,295,0 611,153,640,214,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0065.jpg 330,245,417,362,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0066.jpg 142,64,306,240,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0067.jpg 199,277,336,466,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0068.jpg 117,249,244,420,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0069.jpg 61,36,98,97,0 62,407,127,466,0 273,72,564,256,1 241,360,640,509,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0070.jpg 221,253,285,298,0 344,1,640,167,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0071.jpg 210,140,277,213,0 408,114,499,205,0 484,1,640,307,1 49,354,376,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0072.jpg 532,250,640,436,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0073.jpg 85,295,127,335,0 120,342,170,369,0 313,277,358,310,0 12,1,307,79,1 34,416,182,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0074.jpg 409,248,552,329,0 1,1,453,125,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0075.jpg 172,208,295,365,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0076.jpg 510,232,636,422,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0077.jpg 246,292,390,373,0 431,1,640,233,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0078.jpg 283,250,415,438,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0079.jpg 454,190,572,279,0 400,1,639,104,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0080.jpg 1,311,434,512,1 572,1,640,237,1 496,107,562,183,0 386,273,435,337,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0081.jpg 144,150,212,225,0 489,430,562,510,0 410,148,464,230,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0082.jpg 281,1,640,207,1 301,429,390,491,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0083.jpg 528,293,625,395,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0087.jpg 353,111,409,161,0 212,386,482,512,1 441,250,640,512,1 1,1,307,184,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0088.jpg 209,358,338,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0089.jpg 50,392,106,447,0 72,30,107,91,0 277,71,561,255,1 229,361,640,510,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0090.jpg 295,280,441,357,0 76,1,576,208,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0091.jpg 285,64,352,94,0 208,330,243,381,0 230,404,270,462,0 1,147,208,512,1 582,240,640,422,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0092.jpg 274,100,336,200,0 1,228,103,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0093.jpg 276,106,336,207,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0094.jpg 281,109,463,193,0 1,280,122,353,0 2,2,218,175,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0095.jpg 168,182,297,376,0 238,152,364,343,0 243,320,640,511,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0096.jpg 159,387,264,478,0 1,1,265,138,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0097.jpg 505,297,582,383,0 143,49,216,125,0 409,48,467,134,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0098.jpg 517,287,640,477,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0099.jpg 504,278,627,359,0 137,1,623,173,1 1,322,293,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0100.jpg 214,193,303,266,0 285,308,516,487,1 490,174,563,244,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0102.jpg 34,345,81,403,0 94,10,132,69,0 286,62,583,249,1 201,348,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0103.jpg 204,1,640,129,1 146,363,215,440,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0105.jpg 188,216,312,409,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0106.jpg 282,457,349,507,0 1,116,306,438,1 1,1,294,123,1 426,1,501,37,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0107.jpg 569,306,640,406,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0108.jpg 152,225,272,390,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0111.jpg 434,319,503,410,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0112.jpg 153,145,276,332,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0113.jpg 170,329,243,413,0 574,91,640,510,1 86,41,146,127,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0114.jpg 194,267,322,460,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0115.jpg 316,136,365,170,0 495,425,543,463,0 223,378,278,412,0 34,336,85,373,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0116.jpg 100,109,177,185,0 563,211,640,296,0 361,123,427,209,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0118.jpg 218,192,268,226,0 1,218,42,247,0 1,422,129,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0119.jpg 294,93,354,190,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0120.jpg 175,307,296,462,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0121.jpg 244,219,322,302,0 480,78,640,512,1 54,108,114,197,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0122.jpg 324,453,395,500,0 366,49,438,91,0 570,6,632,43,0 1,171,214,484,1 1,1,237,145,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0125.jpg 433,361,541,501,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0128.jpg 111,346,148,385,0 451,441,503,468,0 163,98,569,319,1 585,210,636,246,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0129.jpg 253,292,318,330,0 368,1,640,193,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0130.jpg 223,149,304,249,0 526,121,640,313,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0131.jpg 52,240,175,419,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0133.jpg 530,302,617,373,0 2,1,294,271,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0134.jpg 212,250,341,441,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0135.jpg 204,150,252,216,0 328,34,394,109,0 412,1,640,280,1 1,235,263,427,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0137.jpg 130,75,201,152,0 528,264,603,351,0 391,80,454,163,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0138.jpg 55,348,176,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0139.jpg 192,233,255,276,0 316,1,640,147,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0140.jpg 515,287,640,369,0 60,1,611,179,1 1,331,345,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0141.jpg 245,73,573,304,1 1,1,241,125,1 353,429,391,462,0 595,57,634,84,0 1,276,241,490,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0142.jpg 174,275,296,465,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0143.jpg 210,271,353,357,0 564,1,640,245,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0144.jpg 172,1,625,115,1 192,368,259,451,1 502,355,583,430,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0145.jpg 430,261,612,347,0 418,61,556,133,0 1,1,378,235,1 1,397,95,466,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0146.jpg 483,107,640,404,1 1,1,309,145,1 30,324,102,375,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0147.jpg 41,353,89,391,0 387,189,640,512,1 87,24,291,178,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0148.jpg 267,101,347,216,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0149.jpg 274,1,547,139,1 108,322,158,383,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0151.jpg 385,121,640,449,1 61,304,130,357,0 1,1,244,196,1 489,338,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0155.jpg 319,66,469,251,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0157.jpg 149,62,311,238,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0158.jpg 552,435,605,465,0 459,246,508,278,0 39,130,454,354,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0159.jpg 520,351,558,407,0 554,357,592,405,0 589,360,639,420,0 30,273,66,322,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0160.jpg 218,15,262,81,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0161.jpg 229,250,353,445,0 305,221,423,413,0 291,400,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0163.jpg 157,285,233,368,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0165.jpg 251,176,381,362,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0166.jpg 592,70,640,169,0 40,251,376,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0167.jpg 596,143,640,238,0 18,418,319,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0168.jpg 196,213,341,297,0 169,58,339,142,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0169.jpg 270,70,549,247,1 255,352,640,512,1 89,423,146,480,0 50,45,84,104,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0171.jpg 290,252,425,341,0 83,150,249,242,0 1,1,104,72,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0172.jpg 594,44,640,161,0 299,1,436,113,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0174.jpg 305,66,617,291,1 55,1,337,107,1 1,252,331,461,1 435,395,472,424,0 426,442,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0175.jpg 444,111,640,505,1 64,314,131,367,0 2,1,291,174,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0176.jpg 412,116,640,512,1 1,1,258,186,1 68,306,136,358,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0177.jpg 232,327,283,367,0 9,317,45,349,0 164,179,210,213,0 605,79,640,114,0 441,373,496,403,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0178.jpg 459,252,522,344,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0179.jpg 164,278,214,315,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0180.jpg 145,232,269,395,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0181.jpg 146,311,200,346,0 390,208,640,512,1 89,33,304,191,1 228,1,412,94,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0182.jpg 452,299,640,512,1 63,362,91,412,0 70,439,101,500,0 248,85,314,121,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0183.jpg 240,306,344,397,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0184.jpg 382,259,522,337,0 1,1,463,143,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0185.jpg 290,100,355,204,0 1,198,95,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0186.jpg 522,334,640,512,1 586,167,640,244,0 240,481,310,512,0 184,247,250,330,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0187.jpg 544,355,619,438,0 117,203,190,277,0 378,212,439,297,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0188.jpg 440,144,560,329,0 163,442,244,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0189.jpg 339,191,447,286,0 382,1,640,209,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0190.jpg 503,384,624,464,0 6,1,639,279,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0191.jpg 433,215,504,303,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0192.jpg 430,51,640,439,1 158,36,255,164,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0193.jpg 319,134,406,206,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0195.jpg 445,249,556,370,0 451,162,547,260,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0196.jpg 199,383,319,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0197.jpg 101,268,223,451,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0198.jpg 482,376,602,454,0 1,1,640,276,1 1,416,236,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0200.jpg 144,145,213,219,0 485,441,557,512,0 406,138,465,225,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0201.jpg 97,250,163,339,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0202.jpg 595,248,640,344,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0203.jpg 292,142,367,242,0 1,91,141,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0204.jpg 186,310,307,466,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0205.jpg 248,294,314,329,0 361,1,639,184,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0206.jpg 101,215,176,286,0 565,322,639,402,0 361,225,424,308,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0207.jpg 348,347,449,445,0 315,1,452,94,0 418,1,508,47,0 455,1,640,360,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0208.jpg 548,182,640,463,1 1,1,196,180,1 290,78,395,204,0 315,1,394,57,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0209.jpg 518,285,639,474,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0210.jpg 305,465,370,511,0 1,169,248,490,1 1,1,233,143,1 366,50,431,90,0 569,6,629,47,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0212.jpg 308,51,374,83,0 262,314,298,363,0 290,387,330,444,0 1,130,277,512,1 1,1,95,66,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0214.jpg 182,252,263,330,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0215.jpg 83,369,204,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0216.jpg 304,147,459,328,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0217.jpg 354,295,447,421,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0218.jpg 504,202,627,360,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0219.jpg 64,307,183,487,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0220.jpg 270,119,315,182,0 401,31,471,108,0 488,1,640,275,1 1,234,422,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0221.jpg 266,261,394,445,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0222.jpg 534,295,622,370,0 408,388,640,512,1 1,1,287,285,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0223.jpg 319,331,422,512,0 391,307,495,498,0 1,236,51,336,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0224.jpg 519,378,640,465,0 574,1,640,123,0 1,1,379,212,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0226.jpg 95,213,135,263,0 17,181,59,238,0 67,101,105,152,0 608,266,640,321,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0227.jpg 439,1,640,404,1 128,1,228,121,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0228.jpg 507,205,629,363,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0229.jpg 483,170,529,202,0 70,1,478,173,1 16,471,68,507,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0230.jpg 161,188,224,262,0 422,229,524,321,0 487,1,640,361,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0233.jpg 21,269,361,508,1 422,390,460,418,0 511,253,555,283,0 460,497,503,512,0 74,205,124,241,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0234.jpg 275,73,562,248,1 60,401,118,455,0 63,33,98,93,0 236,356,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0235.jpg 166,229,197,285,0 311,483,356,512,0 3,262,278,512,1 314,107,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0236.jpg 130,153,245,240,0 1,317,179,512,1 155,1,639,188,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0237.jpg 1,91,30,183,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0238.jpg 110,261,216,350,0 586,3,640,166,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0239.jpg 355,305,398,366,0 490,173,640,512,1 411,1,640,95,1 1,1,150,155,1 1,271,186,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0240.jpg 314,183,425,275,0 1,209,393,512,1 346,1,640,215,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0241.jpg 485,107,518,164,0 1,469,103,512,1 1,1,150,99,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0243.jpg 464,367,586,449,0 1,409,282,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0244.jpg 121,91,194,164,0 530,270,605,352,0 381,93,451,182,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0245.jpg 543,191,604,282,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0246.jpg 195,367,317,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0247.jpg 199,284,327,470,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0248.jpg 291,142,445,318,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0250.jpg 300,280,441,354,0 41,1,538,194,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0252.jpg 264,111,312,175,0 401,34,471,109,0 10,236,432,509,1 492,1,640,276,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0253.jpg 497,98,530,154,0 1,1,153,152,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0254.jpg 319,212,460,395,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0255.jpg 534,246,594,316,0 1,157,206,512,1 99,1,319,130,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0256.jpg 460,381,498,408,0 546,245,587,273,0 60,260,395,512,1 1,169,76,299,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0257.jpg 531,224,618,323,0 1,56,353,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0258.jpg 185,67,354,148,0 139,233,281,314,0 1,1,115,124,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0260.jpg 177,285,300,474,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0262.jpg 299,483,381,512,0 492,388,640,512,1 196,1,640,131,1 124,349,197,446,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0263.jpg 466,138,582,230,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0264.jpg 414,32,640,423,1 137,22,230,149,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0265.jpg 244,151,321,250,0 554,148,640,338,0 1,214,98,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0266.jpg 542,310,622,390,0 187,1,636,128,1 186,357,253,442,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0267.jpg 261,284,328,319,0 364,1,640,165,1 1,356,73,512,1 521,474,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0269.jpg 279,120,333,216,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0271.jpg 45,145,464,512,1 621,124,640,206,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0272.jpg 177,202,298,358,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0273.jpg 325,247,430,344,0 1,341,303,512,1 357,1,640,283,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0274.jpg 297,97,354,194,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0275.jpg 126,353,249,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0277.jpg 390,272,515,450,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0280.jpg 381,240,445,271,0 495,1,640,114,0 1,1,186,258,1 1,319,339,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0282.jpg 198,376,319,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0283.jpg 259,159,318,251,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0284.jpg 113,366,213,456,0 164,62,629,510,1 583,80,640,290,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0285.jpg 390,307,457,357,0 117,442,188,496,0 1,42,97,409,1 284,1,576,193,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0286.jpg 108,240,449,510,1 1,161,121,319,1 583,232,623,258,0 508,367,545,391,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0288.jpg 56,334,176,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0289.jpg 507,209,610,285,0 232,336,640,512,1 4,1,212,218,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0291.jpg 533,193,621,267,0 166,437,254,504,0 260,284,640,512,1 1,1,285,188,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0292.jpg 261,71,364,197,0 287,1,355,45,0 525,147,640,456,1 1,1,160,180,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0293.jpg 170,149,269,275,0 201,1,283,97,0 439,159,640,512,1 1,1,101,169,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0294.jpg 321,100,640,512,1 1,276,314,512,1 167,205,196,261,0 324,492,363,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0295.jpg 452,265,541,336,0 85,474,184,512,0 4,1,432,242,1 511,389,582,450,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0297.jpg 15,416,51,463,0 39,260,640,512,1 477,19,640,265,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0298.jpg 221,316,360,400,0 155,170,327,251,0 61,1,196,71,0 1,1,83,215,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0299.jpg 74,359,103,410,0 81,439,114,496,0 250,84,316,118,0 457,295,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0300.jpg 187,322,314,508,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0301.jpg 449,245,574,414,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0302.jpg 306,42,462,219,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0304.jpg 418,165,541,348,0 101,327,199,455,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0305.jpg 154,216,283,374,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0306.jpg 492,171,619,360,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0307.jpg 26,210,423,512,1 605,256,639,353,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0308.jpg 195,380,317,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0309.jpg 119,175,169,238,0 238,36,305,110,0 320,1,597,254,1 472,324,639,510,1 4,237,129,421,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0313.jpg 399,247,445,317,0 506,72,571,147,0 104,277,393,475,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0314.jpg 508,87,544,149,0 176,203,638,511,1 1,2,163,162,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0315.jpg 574,291,639,368,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0318.jpg 322,184,474,365,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0319.jpg 335,98,424,162,0 2,377,59,442,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0320.jpg 518,283,639,468,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0321.jpg 139,343,263,507,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0322.jpg 432,385,525,454,0 2,1,403,377,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0323.jpg 156,320,279,477,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0324.jpg 283,311,314,358,0 305,382,349,439,0 317,45,384,80,0 1,118,281,511,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0325.jpg 11,141,97,258,0 383,194,509,374,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0327.jpg 375,321,441,367,0 109,460,185,509,0 1,14,136,398,1 312,1,618,154,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0328.jpg 173,236,221,267,0 341,2,542,111,1 1,30,139,133,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0329.jpg 58,90,221,438,1 537,249,580,287,0 342,489,395,511,0 534,24,640,174,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0330.jpg 404,143,586,229,0 1,285,103,360,0 2,1,351,124,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0331.jpg 179,71,364,148,0 111,241,257,321,0 2,2,119,102,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0332.jpg 450,164,572,253,0 2,140,451,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0333.jpg 528,257,639,447,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0335.jpg 34,271,108,343,0 521,356,599,438,0 293,291,355,374,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0336.jpg 225,149,339,240,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0337.jpg 256,82,321,117,0 85,355,124,411,0 96,434,125,495,0 470,295,637,508,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0338.jpg 135,194,255,279,0 136,1,532,175,1 2,364,98,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0340.jpg 173,275,250,358,0 342,47,639,511,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0341.jpg 16,193,126,283,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0342.jpg 54,358,182,511,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0343.jpg 279,35,439,214,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0344.jpg 609,86,639,185,0 3,401,296,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0345.jpg 147,131,213,208,0 479,441,546,510,0 409,125,468,214,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0346.jpg 1,94,30,193,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0347.jpg 292,109,638,507,1 236,411,342,501,0 15,1,329,124,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0348.jpg 255,168,388,356,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0349.jpg 178,193,306,378,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0350.jpg 522,47,638,225,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0351.jpg 431,368,499,458,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0352.jpg 58,215,179,395,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0353.jpg 58,264,184,444,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0354.jpg 278,250,313,283,0 454,373,507,402,0 322,3,639,206,1 136,169,169,205,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0355.jpg 498,140,616,232,0 1,153,547,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0358.jpg 121,5,324,333,1 241,479,293,511,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0359.jpg 2,284,66,369,0 177,1,640,305,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0360.jpg 502,221,561,317,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0362.jpg 486,100,517,157,0 122,170,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0363.jpg 423,140,515,237,0 410,233,524,352,0 1,1,403,297,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0364.jpg 557,304,640,375,0 1,391,208,512,1 197,1,521,144,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0365.jpg 45,85,186,437,1 444,439,497,470,0 505,242,547,282,0 518,20,640,235,1 354,161,381,195,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0366.jpg 322,89,469,277,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0368.jpg 155,7,292,79,0 32,368,175,444,0 2,1,146,209,1 206,190,396,291,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0370.jpg 123,1,221,108,0 446,2,638,390,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0371.jpg 55,223,177,399,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0372.jpg 134,375,236,468,0 1,1,257,104,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0373.jpg 149,352,214,440,0 85,4,147,85,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0374.jpg 372,367,476,463,0 402,1,561,175,0 482,1,624,133,0 2,328,69,512,1 563,158,639,363,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0376.jpg 172,155,337,327,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0377.jpg 303,443,374,491,0 504,60,639,240,1 414,69,472,102,0 205,110,266,147,0 132,22,194,51,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0378.jpg 59,210,179,389,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0379.jpg 465,414,550,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0380.jpg 182,304,309,459,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0381.jpg 234,237,311,322,0 505,80,640,512,1 57,107,119,194,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0382.jpg 128,56,316,394,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0383.jpg 257,278,379,471,0 341,248,452,440,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0384.jpg 471,64,628,234,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0385.jpg 533,272,640,361,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0386.jpg 526,393,640,480,0 2,2,426,229,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0388.jpg 336,43,401,74,0 306,309,338,354,0 332,377,374,434,0 1,132,318,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0389.jpg 154,221,274,380,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0390.jpg 85,268,211,443,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0391.jpg 488,380,582,478,0 1,163,259,511,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0392.jpg 167,218,196,276,0 1,269,298,512,1 315,96,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0393.jpg 39,215,432,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0394.jpg 110,419,205,479,0 482,198,568,265,0 369,402,613,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0396.jpg 162,336,237,422,0 589,96,640,483,1 88,30,144,120,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0397.jpg 38,304,108,354,0 2,2,200,193,1 340,134,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0398.jpg 492,201,612,356,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0399.jpg 287,289,425,357,0 141,2,638,190,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0400.jpg 145,45,218,120,0 519,282,594,367,0 408,48,468,133,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0403.jpg 201,377,326,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0405.jpg 438,227,561,311,0 2,248,374,512,1 292,1,640,173,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0406.jpg 138,68,299,243,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0407.jpg 166,209,258,279,0 284,296,351,357,1 14,433,245,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0408.jpg 501,391,601,487,0 1,162,261,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0409.jpg 222,235,350,422,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0410.jpg 112,160,251,349,0 186,121,321,309,0 215,284,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0411.jpg 353,289,425,337,0 159,1,488,205,1 604,262,638,408,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0412.jpg 382,390,424,454,0 156,9,199,67,0 2,104,88,244,1 398,4,640,171,1 517,257,638,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0413.jpg 244,216,323,298,0 471,79,640,512,1 39,121,108,205,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0414.jpg 396,374,484,499,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0416.jpg 499,255,591,353,0 2,53,308,510,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0418.jpg 302,39,458,218,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0419.jpg 260,75,566,298,1 4,2,239,117,1 6,306,253,512,1 335,471,375,503,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0420.jpg 136,143,522,341,1 543,251,599,284,0 71,388,102,425,0 450,474,510,502,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0421.jpg 554,205,640,395,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0422.jpg 330,345,400,391,0 40,453,120,504,0 262,412,630,512,1 3,76,204,358,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0423.jpg 156,10,193,69,0 371,395,419,457,0 396,2,640,180,1 505,258,640,511,1 1,105,90,267,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0424.jpg 115,252,241,424,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0425.jpg 426,256,548,356,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0426.jpg 256,174,347,249,0 428,238,640,405,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0428.jpg 390,110,465,160,0 21,259,97,318,0 19,420,92,464,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0429.jpg 355,300,424,352,0 154,1,460,230,1 574,275,640,461,1 95,427,151,465,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0430.jpg 170,311,299,462,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0431.jpg 286,350,436,435,0 4,64,138,149,0 112,234,282,310,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0432.jpg 191,242,319,429,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0433.jpg 158,179,288,367,0 235,142,361,329,0 229,313,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0434.jpg 475,58,635,226,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0435.jpg 257,271,387,457,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0436.jpg 491,209,613,361,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0438.jpg 501,252,582,329,0 572,371,640,512,1 188,260,256,348,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0439.jpg 162,313,282,465,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0441.jpg 351,98,640,509,1 66,1,348,136,1 306,378,400,460,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0442.jpg 285,144,441,322,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0443.jpg 76,270,201,447,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0444.jpg 474,147,598,331,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0445.jpg 262,286,329,320,0 368,1,638,161,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0446.jpg 182,278,306,360,0 457,22,548,149,0 2,1,308,165,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0448.jpg 116,201,189,276,0 553,338,630,425,0 374,211,439,301,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0449.jpg 497,306,530,362,0 349,405,590,512,1 1,59,152,346,1 214,1,637,158,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0451.jpg 138,307,187,336,0 353,203,639,512,1 58,41,250,183,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0452.jpg 112,249,264,365,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0453.jpg 492,379,568,459,0 4,309,69,384,0 249,322,314,410,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0455.jpg 1,140,48,241,0 301,216,416,403,0 381,187,494,375,0 349,410,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0456.jpg 223,268,269,292,0 360,210,639,512,1 81,31,264,171,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0457.jpg 126,13,317,346,1 256,491,309,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0459.jpg 371,239,496,417,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0460.jpg 542,291,604,391,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0461.jpg 469,243,563,313,0 103,454,197,511,0 549,361,622,426,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0462.jpg 56,237,176,413,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0463.jpg 290,182,398,307,0 314,63,405,162,0 1,2,245,277,1 554,302,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0466.jpg 434,152,554,333,0 148,413,234,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0470.jpg 215,54,604,271,1 24,220,58,258,0 161,302,195,337,0 448,406,504,436,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0471.jpg 167,264,289,451,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0472.jpg 549,293,637,364,0 2,2,360,243,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0473.jpg 62,313,188,487,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0474.jpg 489,49,640,217,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0476.jpg 189,300,261,377,0 579,91,640,498,1 89,48,148,135,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0477.jpg 285,219,465,299,0 240,27,383,93,0 1,384,124,457,0 2,2,225,214,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0478.jpg 82,264,637,512,1 497,15,640,250,1 38,418,75,461,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0479.jpg 302,358,382,437,0 393,275,640,512,1 108,263,181,344,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0480.jpg 77,184,198,365,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0481.jpg 137,240,256,422,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0482.jpg 161,161,323,333,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0483.jpg 131,285,179,317,0 45,137,85,171,0 412,378,637,512,1 101,1,274,97,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0484.jpg 185,307,308,461,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0485.jpg 208,147,368,319,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0487.jpg 59,369,183,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0488.jpg 278,233,331,267,0 577,186,638,220,0 359,467,389,511,0 1,200,292,512,1 28,1,293,172,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0489.jpg 44,437,350,512,1 600,208,640,310,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0490.jpg 275,69,593,290,1 359,460,401,491,0 30,1,268,121,1 2,301,267,509,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0491.jpg 562,199,640,388,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0492.jpg 538,296,626,365,0 2,1,276,274,1 397,401,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0494.jpg 523,398,640,488,0 3,1,609,262,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0495.jpg 196,221,241,249,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0496.jpg 290,144,449,318,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0498.jpg 301,127,372,228,0 2,129,143,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0500.jpg 330,449,401,493,0 1,177,194,480,1 3,2,230,131,1 362,50,429,86,0 566,7,621,38,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0501.jpg 1,2,251,222,1 284,31,418,99,0 321,227,498,308,0 1,386,122,456,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0502.jpg 423,435,498,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0503.jpg 419,248,484,341,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0504.jpg 179,345,252,434,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0505.jpg 270,83,329,182,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0506.jpg 103,261,168,356,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0507.jpg 1,295,74,375,0 51,1,574,253,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0508.jpg 135,271,186,301,0 261,405,640,512,1 382,12,430,40,0 2,3,197,96,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0509.jpg 1,244,46,347,0 306,318,414,509,0 381,290,495,478,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0510.jpg 468,243,580,331,0 2,252,490,512,1 426,1,640,162,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0511.jpg 376,221,497,401,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0512.jpg 317,271,457,344,0 1,2,484,113,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0513.jpg 405,279,447,342,0 539,149,640,495,1 1,1,192,166,1 1,248,262,512,1 444,1,639,68,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0514.jpg 392,414,459,462,0 295,4,595,280,1 1,133,95,476,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0515.jpg 159,275,236,349,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0516.jpg 258,80,344,186,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0517.jpg 60,205,183,387,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0518.jpg 271,395,365,469,0 430,296,640,512,1 132,258,202,340,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0521.jpg 212,263,292,347,0 515,91,640,512,1 59,103,118,189,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0522.jpg 299,126,369,227,0 1,155,137,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0523.jpg 428,161,563,311,0 576,47,640,182,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0524.jpg 5,246,107,342,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0525.jpg 485,379,528,412,0 148,113,371,258,1 274,48,378,108,1 442,84,564,195,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0526.jpg 1,102,35,203,0 318,378,399,512,0 395,360,481,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0527.jpg 603,105,640,208,0 59,224,396,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0528.jpg 1,199,35,293,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0529.jpg 479,145,527,182,0 146,2,424,182,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0530.jpg 134,294,184,324,0 75,138,114,174,0 434,371,639,512,1 119,1,308,91,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0531.jpg 157,161,316,333,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0532.jpg 309,195,394,311,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0533.jpg 1,75,383,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0534.jpg 361,303,428,352,0 226,3,519,198,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0535.jpg 272,230,322,265,0 574,189,637,224,0 369,470,394,511,0 1,207,305,512,1 31,1,296,173,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0536.jpg 171,314,291,471,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0537.jpg 168,203,203,262,0 1,299,322,512,1 329,117,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0538.jpg 117,100,189,174,0 542,250,620,331,0 379,108,440,193,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0539.jpg 243,189,371,378,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0540.jpg 477,284,557,366,0 2,227,42,297,0 224,245,289,328,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0541.jpg 176,342,251,432,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0542.jpg 291,367,362,414,0 4,477,82,512,0 2,74,201,377,1 286,361,639,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0543.jpg 359,245,426,274,0 2,329,298,512,1 1,1,158,254,1 481,2,640,112,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0544.jpg 298,144,431,329,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0545.jpg 218,209,303,303,0 459,63,590,249,0 527,25,640,208,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0547.jpg 537,297,618,389,0 2,156,355,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0548.jpg 328,111,411,167,0 2,395,41,455,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0549.jpg 384,307,449,352,0 271,3,566,178,1 1,67,73,391,1 111,451,181,490,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0550.jpg 570,89,640,510,1 206,267,281,353,0 89,49,149,137,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0552.jpg 209,362,331,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0554.jpg 90,14,128,70,0 22,347,66,400,0 278,69,592,264,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0555.jpg 271,154,398,342,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0556.jpg 186,202,304,360,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0557.jpg 343,297,411,345,0 187,1,483,201,1 619,260,640,387,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0558.jpg 119,102,285,438,1 609,260,640,294,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0559.jpg 450,362,574,440,0 96,1,638,277,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0560.jpg 562,234,612,297,0 2,124,271,512,1 395,401,640,512,1 177,1,374,107,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0561.jpg 2,61,283,512,1 487,265,579,363,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0563.jpg 233,141,283,203,0 398,110,470,188,0 478,1,639,340,1 72,318,394,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0564.jpg 299,133,371,231,0 1,114,148,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0565.jpg 54,330,178,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0566.jpg 128,275,181,306,0 2,137,36,172,0 358,379,640,512,1 462,1,511,23,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0567.jpg 436,383,525,452,0 3,1,437,364,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0568.jpg 453,60,549,157,0 445,149,557,271,0 1,2,417,204,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0569.jpg 98,167,219,349,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0571.jpg 406,302,494,427,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0572.jpg 281,150,417,331,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0573.jpg 561,190,604,212,0 505,322,543,347,0 115,209,449,448,1 3,115,114,277,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0574.jpg 129,360,207,449,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0576.jpg 528,197,617,266,0 265,278,640,512,1 158,439,245,509,0 2,2,301,187,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0578.jpg 499,200,624,385,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0579.jpg 232,148,349,340,0 308,117,423,307,0 291,302,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0582.jpg 104,260,229,431,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0585.jpg 70,30,103,88,0 55,397,111,447,0 277,74,570,249,1 229,358,638,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0586.jpg 281,151,366,217,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0587.jpg 437,276,483,339,0 574,151,640,427,1 1,1,138,136,1 475,1,640,54,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0588.jpg 180,298,302,480,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0589.jpg 194,155,356,330,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0590.jpg 245,220,289,252,0 115,1,398,182,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0592.jpg 209,93,392,169,0 33,263,178,338,0 2,1,146,97,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0593.jpg 153,65,325,142,0 221,212,359,295,0 2,1,85,109,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0595.jpg 175,51,336,222,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0596.jpg 133,265,225,333,0 146,351,638,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0598.jpg 186,205,308,358,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0600.jpg 476,217,599,374,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0601.jpg 524,274,639,461,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0602.jpg 90,270,213,457,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0603.jpg 222,251,299,333,0 57,106,117,192,1 503,82,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0604.jpg 453,268,570,351,0 311,1,640,207,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0605.jpg 468,133,594,319,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0606.jpg 85,367,129,407,0 446,458,502,486,0 563,236,616,264,0 140,120,556,283,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0607.jpg 520,293,639,382,0 101,1,575,155,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0608.jpg 55,231,433,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0609.jpg 236,276,392,367,0 524,1,640,238,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0610.jpg 263,286,336,319,0 373,1,640,170,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0611.jpg 511,275,640,461,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0612.jpg 340,113,431,189,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0613.jpg 202,51,308,184,0 477,37,640,447,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0614.jpg 212,351,341,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0616.jpg 291,287,436,353,0 109,2,608,183,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0617.jpg 126,66,221,211,0 445,79,640,483,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0618.jpg 239,175,285,204,0 19,214,70,234,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0619.jpg 512,387,638,473,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0620.jpg 115,355,235,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0621.jpg 196,280,327,468,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0622.jpg 371,234,500,416,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0623.jpg 58,274,198,441,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0624.jpg 134,14,218,148,0 407,18,640,420,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0626.jpg 283,242,430,432,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0631.jpg 136,352,214,440,0 83,1,143,70,1 605,64,640,389,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0632.jpg 172,195,293,360,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0634.jpg 231,265,305,296,0 362,3,636,173,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0635.jpg 526,250,640,437,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0636.jpg 192,238,276,304,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0637.jpg 379,101,446,187,1 535,263,605,347,0 119,96,194,173,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0638.jpg 188,49,284,184,0 456,65,640,445,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0639.jpg 380,263,511,437,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0640.jpg 248,263,398,331,0 51,178,201,257,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0642.jpg 259,286,328,323,0 374,2,640,175,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0643.jpg 65,260,425,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0644.jpg 100,357,236,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0645.jpg 3,159,235,442,1 253,471,330,512,0 369,29,440,64,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0646.jpg 437,250,560,427,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0647.jpg 485,369,588,467,0 2,163,269,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0649.jpg 63,289,192,475,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0650.jpg 199,349,335,511,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0652.jpg 379,27,448,66,0 365,287,398,343,0 397,365,443,418,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0653.jpg 397,284,439,339,0 5,257,260,512,1 528,147,640,469,1 436,1,640,56,1 1,1,188,162,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0654.jpg 527,315,609,401,0 191,364,256,450,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0655.jpg 332,243,402,279,0 1,1,128,266,1 450,1,640,106,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0656.jpg 149,319,279,482,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0659.jpg 120,176,442,426,1 557,160,598,187,0 506,291,543,318,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0660.jpg 272,229,415,316,0 129,105,305,188,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0661.jpg 562,202,608,231,0 114,229,447,476,1 507,341,544,365,0 3,134,119,277,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0662.jpg 205,149,298,249,0 505,103,627,284,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0664.jpg 511,239,635,426,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0665.jpg 122,192,192,264,0 376,191,458,295,1 522,363,598,460,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0667.jpg 480,83,606,161,0 4,1,439,284,1 483,283,640,373,0 1,398,73,469,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0668.jpg 351,25,640,394,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0669.jpg 320,335,398,380,0 28,445,119,487,0 1,80,171,381,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0670.jpg 364,213,467,348,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0672.jpg 394,237,436,274,0 446,393,511,432,0 390,6,640,216,1 1,75,65,430,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0673.jpg 296,101,361,207,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0674.jpg 481,202,613,359,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0675.jpg 140,340,285,509,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0677.jpg 74,129,144,209,0 555,226,627,309,0 330,148,401,236,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0678.jpg 247,297,396,370,0 345,245,369,301,1 292,1,637,230,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0680.jpg 472,271,519,331,0 5,245,346,512,1 1,1,259,178,1 503,1,626,53,1 605,152,640,317,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0682.jpg 62,158,467,511,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0683.jpg 490,201,609,366,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0684.jpg 260,151,354,229,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0685.jpg 287,143,423,329,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0686.jpg 382,203,513,385,0 3,126,86,236,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0687.jpg 156,45,501,336,1 347,404,432,451,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0688.jpg 278,21,640,428,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0689.jpg 46,158,507,339,1 514,262,569,309,0 474,476,541,512,0 36,403,69,443,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0690.jpg 130,245,264,422,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0691.jpg 479,54,640,228,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0693.jpg 105,3,203,98,0 445,1,639,395,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0695.jpg 138,159,210,235,0 523,367,601,456,0 403,163,467,250,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0697.jpg 124,351,163,396,0 135,427,173,480,0 263,79,335,109,0 474,1,546,100,1 510,275,638,510,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0699.jpg 71,291,207,474,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0700.jpg 345,126,534,210,0 2,284,129,356,0 1,2,291,191,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0702.jpg 320,350,415,390,0 40,455,124,505,0 6,24,215,334,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0703.jpg 426,159,552,351,0 134,388,224,510,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0704.jpg 291,244,430,433,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0705.jpg 281,271,481,484,0 1,254,40,354,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0706.jpg 175,297,230,337,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0707.jpg 530,173,615,269,0 1,42,378,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0708.jpg 151,50,313,235,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0709.jpg 231,161,284,208,0 222,365,257,426,0 211,445,248,510,0 498,80,564,120,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0710.jpg 139,127,232,248,0 168,1,237,55,0 416,137,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0711.jpg 262,73,330,106,0 141,347,176,400,0 155,422,197,479,0 523,263,635,512,1 1,151,116,511,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0712.jpg 359,30,425,68,0 336,291,372,353,0 365,368,410,426,0 3,119,353,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0713.jpg 197,387,322,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0714.jpg 190,389,332,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0716.jpg 139,60,435,339,1 339,417,409,464,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0717.jpg 522,302,621,369,0 3,2,372,304,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0718.jpg 62,368,175,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0720.jpg 174,252,245,338,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0721.jpg 110,79,436,397,1 334,434,395,473,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0722.jpg 530,243,640,434,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0723.jpg 440,379,484,444,0 1,74,227,269,1 197,2,243,64,0 434,1,640,164,1 569,254,640,504,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0724.jpg 434,269,534,349,0 1,1,371,271,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0726.jpg 535,309,626,411,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0727.jpg 451,65,618,237,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0728.jpg 144,184,216,264,0 425,237,528,329,0 482,1,640,358,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0730.jpg 63,259,205,337,0 196,84,383,173,0 1,3,139,171,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0731.jpg 122,168,310,348,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0732.jpg 526,46,640,210,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0733.jpg 500,195,613,364,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0734.jpg 82,352,223,438,0 127,5,264,72,0 174,182,388,264,0 1,2,135,285,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0735.jpg 82,263,202,447,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0736.jpg 520,277,640,377,0 4,1,384,121,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0738.jpg 159,203,203,269,0 329,151,640,505,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0739.jpg 78,147,124,212,0 290,1,529,196,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0740.jpg 555,272,640,350,0 2,2,262,108,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0741.jpg 238,36,335,146,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0742.jpg 226,211,366,402,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0745.jpg 285,138,434,324,0 2,6,73,153,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0746.jpg 157,211,283,368,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0747.jpg 345,110,640,499,1 61,2,347,142,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0750.jpg 73,267,198,437,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0751.jpg 119,360,217,443,1 292,469,392,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0752.jpg 172,209,285,364,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0753.jpg 325,164,459,369,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0754.jpg 252,285,320,329,0 368,1,640,176,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0755.jpg 266,76,335,115,0 116,353,143,405,0 126,427,161,492,0 501,287,636,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0759.jpg 186,306,306,465,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0760.jpg 266,124,316,197,0 384,26,460,107,0 4,238,408,512,1 488,1,640,264,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0761.jpg 16,388,56,440,0 520,456,586,483,0 504,258,552,297,0 27,143,489,326,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0762.jpg 82,116,290,326,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0763.jpg 256,206,443,295,0 211,18,348,96,0 3,380,129,461,0 1,1,194,281,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0764.jpg 279,354,355,405,0 1,469,78,512,0 2,37,306,325,1 398,298,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0765.jpg 379,233,456,271,0 3,14,193,244,1 514,1,640,97,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0766.jpg 107,97,185,183,0 564,216,640,301,0 340,107,447,221,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0767.jpg 535,202,618,286,0 179,253,254,340,1 544,346,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0768.jpg 60,272,192,429,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0769.jpg 234,143,391,323,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0770.jpg 497,238,538,280,0 462,430,513,464,0 3,85,269,424,1 522,18,640,192,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0772.jpg 111,362,239,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0773.jpg 464,239,583,413,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0774.jpg 344,317,414,365,0 76,443,142,484,0 134,30,419,240,1 548,289,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0775.jpg 433,156,492,188,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0776.jpg 311,150,462,330,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0777.jpg 398,131,448,169,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0778.jpg 482,152,604,342,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0779.jpg 486,212,604,364,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0780.jpg 570,179,637,209,0 351,458,378,508,0 276,225,335,276,0 23,1,292,164,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0782.jpg 464,237,580,394,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0783.jpg 166,271,272,356,0 345,1,548,215,0 464,165,638,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0784.jpg 295,322,401,415,0 385,2,601,162,0 518,144,640,424,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0785.jpg 35,47,621,421,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0787.jpg 176,196,212,258,0 335,176,640,509,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0788.jpg 160,256,216,285,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0789.jpg 491,218,609,373,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0790.jpg 317,158,479,346,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0791.jpg 192,237,244,268,0 204,1,470,151,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0792.jpg 103,425,199,490,0 392,400,630,512,1 461,208,561,269,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0793.jpg 332,161,390,214,0 408,321,636,512,1 1,1,291,260,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0794.jpg 68,44,168,192,0 394,49,640,443,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0795.jpg 2,102,36,202,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0796.jpg 540,404,640,485,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0798.jpg 491,135,548,176,0 60,1,358,214,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0799.jpg 1,104,48,205,0 328,308,501,510,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0800.jpg 185,181,251,259,0 582,34,640,304,1 520,298,621,384,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0801.jpg 443,242,573,409,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0802.jpg 211,350,338,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0805.jpg 564,183,640,370,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0806.jpg 498,204,619,354,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0807.jpg 529,413,587,445,0 412,228,466,259,0 6,126,400,276,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0808.jpg 272,214,328,268,0 566,168,634,208,0 340,452,368,502,0 4,188,244,512,1 17,1,288,157,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0809.jpg 196,190,386,271,0 58,364,204,435,0 141,2,278,78,0 2,1,143,278,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0811.jpg 515,283,640,473,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0812.jpg 85,275,127,306,0 115,314,169,344,0 302,244,351,281,0 1,390,182,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0813.jpg 270,252,410,439,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0814.jpg 293,75,344,182,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0815.jpg 243,129,310,210,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0816.jpg 471,279,552,364,0 208,255,270,341,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0817.jpg 158,199,250,271,0 61,403,282,512,1 306,265,377,334,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0818.jpg 57,194,196,381,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0819.jpg 327,188,437,284,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0820.jpg 197,267,341,452,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0821.jpg 482,312,519,369,0 260,1,593,120,1 1,8,152,298,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0822.jpg 148,151,219,229,0 510,384,609,465,0 409,151,466,241,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0823.jpg 165,283,224,323,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0824.jpg 176,180,297,369,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0826.jpg 130,272,229,367,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0828.jpg 507,228,547,258,0 549,98,587,129,0 101,124,452,377,1 482,335,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0829.jpg 430,375,538,448,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0830.jpg 330,280,440,385,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0831.jpg 532,131,590,168,0 43,17,324,236,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0832.jpg 239,106,430,187,0 1,271,128,356,0 1,1,190,180,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0833.jpg 235,36,383,213,0 289,409,415,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0834.jpg 143,336,265,503,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0835.jpg 184,303,301,471,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0836.jpg 555,409,640,486,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0837.jpg 52,319,115,368,0 462,106,640,474,1 5,1,302,166,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0839.jpg 116,259,177,357,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0840.jpg 170,320,224,359,0 6,32,43,62,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0842.jpg 115,104,159,181,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0843.jpg 534,201,623,309,0 1,58,341,491,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0844.jpg 378,261,517,447,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0845.jpg 264,392,357,463,0 16,337,85,421,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0849.jpg 182,206,313,355,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0850.jpg 267,142,411,343,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0852.jpg 507,260,543,292,0 551,128,601,156,0 120,148,451,412,1 500,391,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0853.jpg 500,205,631,391,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0854.jpg 293,98,366,204,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0855.jpg 103,260,232,428,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0856.jpg 248,175,332,254,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0857.jpg 420,261,551,438,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0858.jpg 51,304,117,351,0 368,127,640,512,1 1,3,223,191,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0859.jpg 545,222,640,401,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0860.jpg 126,202,257,289,0 114,1,497,173,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0861.jpg 169,205,279,376,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0862.jpg 102,362,215,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0864.jpg 406,50,640,334,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0865.jpg 239,189,311,272,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0867.jpg 553,219,640,400,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0868.jpg 142,177,249,259,0 121,2,549,180,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0870.jpg 332,141,640,451,1 41,44,103,84,0 45,61,312,211,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0871.jpg 444,153,571,238,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0872.jpg 147,140,241,283,0 191,1,284,86,0 433,156,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0874.jpg 240,284,389,376,0 457,1,638,238,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0876.jpg 171,341,245,431,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0877.jpg 352,98,640,490,1 324,402,425,492,0 76,1,416,133,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0878.jpg 250,423,354,504,0 175,238,245,324,1 496,320,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0879.jpg 193,241,327,429,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0880.jpg 2,164,372,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0882.jpg 42,215,181,397,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0883.jpg 216,189,310,255,0 266,321,508,507,1 475,187,549,261,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0884.jpg 1,96,36,196,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0886.jpg 276,78,336,186,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0887.jpg 173,43,272,176,0 444,60,640,444,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0888.jpg 174,160,301,351,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0890.jpg 263,77,340,116,0 122,355,149,401,0 132,430,162,484,0 507,281,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0891.jpg 461,268,506,331,0 27,1,243,118,1 492,1,640,56,1 597,153,640,347,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0892.jpg 120,267,222,358,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0893.jpg 125,85,226,224,0 442,97,640,508,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0894.jpg 130,336,223,429,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0895.jpg 89,170,202,367,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0896.jpg 191,379,303,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0897.jpg 366,239,494,417,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0899.jpg 209,252,339,436,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0900.jpg 143,179,207,250,0 509,2,640,353,1 452,274,553,362,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0901.jpg 252,162,332,225,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0903.jpg 295,140,456,330,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0905.jpg 582,252,630,288,0 35,104,311,435,1 572,53,640,160,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0906.jpg 265,43,426,210,0 69,85,203,232,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0907.jpg 183,199,294,366,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0908.jpg 312,23,640,431,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0909.jpg 446,365,549,441,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0910.jpg 122,199,193,273,0 533,357,611,453,0 378,208,440,293,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0911.jpg 396,17,482,106,0 387,116,493,236,0 1,1,335,185,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0912.jpg 197,293,341,382,0 443,4,546,121,0 1,1,267,163,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0913.jpg 548,59,594,92,0 151,85,466,338,1 538,195,577,219,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0915.jpg 183,212,310,394,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0917.jpg 491,196,626,371,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0919.jpg 313,52,460,225,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0920.jpg 526,158,611,252,0 1,53,363,482,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0921.jpg 280,105,341,196,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0922.jpg 193,390,316,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0923.jpg 53,350,188,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0925.jpg 196,284,268,364,0 85,48,150,133,1 574,90,640,478,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0926.jpg 418,233,489,322,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0927.jpg 480,326,574,405,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0928.jpg 482,299,539,345,0 490,162,528,197,0 566,28,631,62,0 74,56,427,333,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0929.jpg 300,352,376,405,0 12,468,90,512,0 1,82,223,348,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0930.jpg 534,296,639,387,0 110,1,560,154,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0931.jpg 298,94,357,221,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0932.jpg 385,235,476,375,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0933.jpg 285,352,357,402,0 1,8,396,326,1 6,474,83,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0934.jpg 49,407,129,493,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0935.jpg 345,267,492,343,0 2,2,468,175,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0937.jpg 393,268,484,397,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0938.jpg 254,279,436,365,0 219,1,638,212,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0940.jpg 71,407,132,479,0 269,74,600,304,1 251,353,619,512,1 59,41,91,102,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0941.jpg 331,192,448,285,0 375,1,640,211,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0942.jpg 34,284,101,337,0 268,148,618,512,1 1,1,151,197,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0943.jpg 257,369,328,411,0 1,56,237,313,1 1,479,52,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0944.jpg 110,357,243,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0945.jpg 269,1,348,113,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0946.jpg 5,271,146,352,0 224,100,408,178,0 1,3,163,176,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0947.jpg 208,158,300,299,0 240,23,314,129,0 477,158,640,511,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0948.jpg 397,271,522,442,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0949.jpg 531,200,613,267,0 556,338,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0950.jpg 157,211,290,369,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0951.jpg 487,162,615,358,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0952.jpg 248,39,405,213,0 194,280,329,432,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0953.jpg 281,379,380,451,0 126,258,196,343,1 415,281,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0954.jpg 493,45,640,223,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0955.jpg 21,113,328,424,1 291,460,361,503,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0958.jpg 216,40,378,212,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0959.jpg 476,216,597,378,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0960.jpg 319,61,466,239,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0961.jpg 312,221,450,405,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0962.jpg 443,255,515,346,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0964.jpg 321,106,462,290,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0966.jpg 170,216,292,375,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0967.jpg 144,47,212,123,0 497,306,570,400,0 409,47,465,131,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0969.jpg 316,124,389,200,0 1,425,31,487,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0970.jpg 321,220,410,329,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0972.jpg 544,250,625,350,0 3,163,381,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0973.jpg 558,125,640,222,0 558,227,640,319,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0974.jpg 447,252,567,346,0 344,1,640,184,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0975.jpg 106,265,222,345,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0976.jpg 533,191,626,288,0 1,50,382,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0977.jpg 260,267,400,448,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0978.jpg 141,235,265,407,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0979.jpg 164,310,289,470,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0980.jpg 191,261,329,453,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0981.jpg 271,70,343,104,0 1,142,162,512,1 541,262,640,511,1 168,343,198,391,0 182,418,220,475,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0982.jpg 53,339,174,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0983.jpg 298,246,434,434,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0984.jpg 453,374,497,432,0 7,101,172,251,1 1,336,276,505,1 587,253,640,492,1 450,1,640,161,1 212,1,251,56,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0985.jpg 302,405,414,492,0 374,145,640,505,1 59,5,446,124,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0986.jpg 264,2,461,92,1 166,353,234,436,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0987.jpg 261,312,305,345,0 332,465,382,498,0 105,449,143,481,0 2,305,51,434,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0988.jpg 239,299,366,488,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0989.jpg 447,324,565,404,0 177,1,640,263,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0990.jpg 323,297,424,389,0 365,3,640,479,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0991.jpg 288,241,435,330,0 106,122,279,213,0 3,1,146,42,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0992.jpg 578,172,640,244,0 211,424,301,480,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0993.jpg 226,184,273,215,0 4,215,58,240,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0996.jpg 265,1,640,277,1 411,256,640,462,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0997.jpg 374,242,499,419,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0998.jpg 313,36,619,249,1 383,419,453,470,0 3,131,131,477,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/0999.jpg 1,4,274,388,1 508,313,610,382,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1000.jpg 252,112,302,173,0 399,56,470,125,0 55,260,434,512,1 472,1,640,296,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1001.jpg 285,54,594,262,1 206,336,640,512,1 37,358,85,410,0 89,13,122,72,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1002.jpg 445,142,568,323,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1003.jpg 456,331,526,423,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1004.jpg 594,67,640,169,0 38,264,365,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1005.jpg 195,233,245,266,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1006.jpg 136,187,208,259,0 434,256,532,348,0 480,7,640,361,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1007.jpg 487,192,555,265,0 3,179,226,512,1 62,2,285,128,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1009.jpg 240,143,397,316,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1011.jpg 147,336,265,494,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1012.jpg 432,362,580,464,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1013.jpg 77,181,206,362,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1014.jpg 574,276,640,360,0 185,353,252,437,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1015.jpg 1,204,69,277,0 492,273,567,352,0 249,218,313,305,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1016.jpg 569,394,640,464,0 362,1,427,71,0 2,2,133,240,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1017.jpg 151,333,268,493,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1018.jpg 126,250,248,418,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1019.jpg 515,254,639,439,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1020.jpg 587,255,640,357,0 1,189,415,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1021.jpg 132,144,249,232,0 194,1,640,194,1 1,313,162,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1022.jpg 433,257,555,428,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1025.jpg 107,256,240,357,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1026.jpg 137,322,170,361,0 451,422,503,448,0 181,76,606,289,1 3,242,36,285,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1027.jpg 300,243,439,426,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1028.jpg 252,295,396,370,0 331,1,640,234,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1029.jpg 563,289,640,358,0 2,1,175,118,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1030.jpg 56,230,177,407,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1031.jpg 227,142,385,315,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1032.jpg 509,298,544,353,0 202,1,638,173,1 1,62,160,361,1 1,5,24,45,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1033.jpg 262,366,384,440,0 53,286,199,357,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1034.jpg 567,224,617,284,0 1,102,274,510,1 372,377,640,511,1 185,1,371,74,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1035.jpg 429,1,498,80,0 562,392,640,462,0 1,1,203,232,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1036.jpg 170,193,234,262,0 423,218,513,308,0 483,3,640,335,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1037.jpg 383,206,500,383,0 2,67,59,180,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1038.jpg 343,35,638,407,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1039.jpg 173,307,292,458,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1040.jpg 475,342,540,434,0 144,19,212,93,0 408,10,467,100,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1041.jpg 66,273,192,445,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1042.jpg 266,153,394,339,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1044.jpg 550,189,634,259,0 181,436,271,498,0 1,1,415,202,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1045.jpg 191,84,514,302,1 582,59,620,84,0 570,191,604,213,0 267,498,296,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1046.jpg 181,305,305,491,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1047.jpg 598,143,640,240,0 27,400,320,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1048.jpg 538,194,625,264,0 1,1,334,248,1 166,426,268,503,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1049.jpg 532,1,602,98,0 549,377,640,451,0 1,2,310,206,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1050.jpg 241,131,293,192,0 397,94,470,166,0 456,2,640,330,1 61,291,373,476,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1052.jpg 494,204,615,352,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1053.jpg 55,225,173,406,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1054.jpg 1,484,55,512,0 264,372,331,418,0 1,105,224,364,1 308,349,639,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1055.jpg 1,195,29,288,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1056.jpg 210,224,301,319,0 438,50,572,241,0 502,15,637,202,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1058.jpg 318,406,418,494,0 374,104,640,511,1 93,1,408,149,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1059.jpg 219,242,344,425,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1060.jpg 217,191,299,288,0 470,63,604,256,0 543,32,640,217,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1061.jpg 137,246,255,412,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1063.jpg 216,230,267,261,0 151,1,440,173,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1065.jpg 140,250,202,344,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1066.jpg 252,294,400,375,0 395,1,640,341,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1067.jpg 277,69,341,98,0 186,338,217,384,0 203,412,240,465,0 1,138,179,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1068.jpg 411,266,534,440,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1069.jpg 183,212,302,365,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1070.jpg 70,375,187,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1072.jpg 221,148,383,319,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1074.jpg 349,319,429,369,0 72,469,153,511,0 5,9,139,368,1 316,1,617,141,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1075.jpg 279,288,429,357,0 168,1,640,188,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1076.jpg 451,247,568,334,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1077.jpg 371,293,408,347,0 500,156,640,512,1 1,7,90,161,1 416,1,640,77,1 2,261,210,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1078.jpg 294,87,348,184,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1080.jpg 67,300,189,483,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1081.jpg 443,247,565,419,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1082.jpg 192,231,315,422,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1083.jpg 225,185,284,283,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1084.jpg 246,180,376,369,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1085.jpg 84,19,118,80,0 43,369,91,422,0 281,64,578,253,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1086.jpg 107,212,172,303,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1087.jpg 447,360,514,448,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1088.jpg 69,166,459,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1089.jpg 131,350,254,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1090.jpg 317,120,500,198,0 2,286,121,351,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1091.jpg 48,13,189,85,0 240,331,388,404,0 149,184,321,266,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1092.jpg 303,21,626,243,1 368,427,440,469,0 7,127,165,459,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1093.jpg 307,128,446,312,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1095.jpg 65,1,557,200,1 17,443,90,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1097.jpg 384,200,513,380,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1098.jpg 589,177,640,278,0 41,334,358,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1099.jpg 324,87,471,273,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1100.jpg 346,302,415,350,0 191,6,500,203,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1101.jpg 180,313,301,469,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1103.jpg 400,179,516,363,0 38,210,145,348,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1104.jpg 364,97,417,150,0 455,222,640,511,1 1,1,265,159,1 207,364,499,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1107.jpg 394,86,522,238,0 584,42,640,164,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1108.jpg 1,111,45,216,0 331,306,422,502,0 404,289,498,482,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1110.jpg 47,363,74,415,0 49,443,83,500,0 253,86,319,120,0 436,311,638,510,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1111.jpg 163,159,285,344,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1112.jpg 293,142,343,193,0 85,364,413,512,1 411,225,640,512,1 1,1,245,139,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1113.jpg 55,317,124,366,0 433,121,640,438,1 13,1,289,163,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1115.jpg 25,101,482,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1117.jpg 113,278,224,347,0 151,412,229,492,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1120.jpg 155,249,279,437,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1121.jpg 144,149,216,226,0 524,369,600,453,0 404,151,467,243,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1122.jpg 1,289,108,358,0 378,134,557,218,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1123.jpg 149,246,247,311,0 224,360,301,436,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1124.jpg 322,206,430,295,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1125.jpg 68,311,144,360,0 1,1,294,176,1 448,116,640,511,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1126.jpg 207,266,242,302,0 452,380,504,404,0 226,20,639,228,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1127.jpg 252,160,297,193,0 47,312,101,348,0 482,383,534,418,0 219,351,272,374,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1129.jpg 199,252,276,332,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1130.jpg 225,228,351,411,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1131.jpg 15,186,115,282,0 69,1,635,386,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1132.jpg 205,234,256,265,0 131,4,509,162,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1134.jpg 457,241,579,410,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1135.jpg 452,135,569,319,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1136.jpg 498,89,595,184,0 492,177,607,291,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1138.jpg 611,86,640,183,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1139.jpg 298,243,334,278,0 452,377,504,405,0 322,1,639,200,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1140.jpg 211,267,282,354,0 70,75,137,171,1 525,69,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1141.jpg 489,210,572,276,1 119,424,222,491,0 80,1,536,143,1 334,421,584,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1142.jpg 197,387,313,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1143.jpg 358,193,439,309,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1144.jpg 316,114,454,297,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1146.jpg 293,38,444,214,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1147.jpg 394,182,514,365,0 38,190,131,313,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1148.jpg 199,227,247,259,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1150.jpg 147,339,266,498,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1151.jpg 167,286,254,373,0 229,13,640,469,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1152.jpg 203,297,300,385,0 261,32,640,497,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1153.jpg 401,118,491,220,0 386,222,497,342,0 1,1,362,296,1 394,7,475,113,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1154.jpg 84,1,228,59,0 175,171,344,250,0 168,328,310,402,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1155.jpg 74,264,418,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1156.jpg 308,265,372,294,0 404,1,640,139,1 1,1,88,274,1 1,335,182,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1157.jpg 147,166,307,339,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1158.jpg 156,267,207,303,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1159.jpg 500,176,619,372,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1160.jpg 180,311,252,395,0 84,45,149,133,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1161.jpg 304,460,369,502,0 33,121,358,406,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1162.jpg 483,209,606,368,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1163.jpg 133,241,250,424,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1164.jpg 478,339,558,438,0 146,28,213,101,0 406,17,471,109,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1166.jpg 170,268,293,453,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1167.jpg 353,427,424,469,0 1,84,136,458,1 300,9,636,249,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1168.jpg 343,32,640,397,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1169.jpg 479,389,553,468,0 1,328,43,405,0 225,349,289,434,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1171.jpg 472,230,589,384,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1172.jpg 1,83,258,445,1 510,242,553,279,0 427,448,476,475,0 484,24,640,227,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1173.jpg 210,198,295,268,0 221,280,630,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1174.jpg 485,303,569,378,0 1,1,177,383,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1176.jpg 269,102,640,509,1 203,395,302,485,0 19,1,289,134,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1178.jpg 319,171,470,352,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1180.jpg 485,123,519,180,0 73,177,625,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1181.jpg 392,2,475,75,0 562,392,640,469,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1182.jpg 138,96,210,185,0 460,451,531,512,0 406,86,464,178,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1183.jpg 160,337,226,431,0 90,17,146,105,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1184.jpg 272,162,385,255,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1185.jpg 175,69,632,511,1 128,363,226,460,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1186.jpg 24,48,290,261,1 542,142,589,170,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1188.jpg 319,54,466,233,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1190.jpg 1,126,56,228,0 323,246,424,444,0 397,227,506,412,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1192.jpg 376,291,413,343,0 1,1,112,148,1 508,155,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1193.jpg 101,32,438,285,1 508,296,640,512,1 54,456,129,496,0 333,333,404,376,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1194.jpg 321,170,471,351,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1195.jpg 208,107,640,447,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1196.jpg 405,384,448,439,0 1,80,212,244,1 167,7,211,65,0 409,1,640,170,1 536,252,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1197.jpg 74,310,141,358,0 1,1,274,169,1 400,123,640,416,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1198.jpg 316,157,466,336,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1199.jpg 431,384,517,454,0 1,1,423,372,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1200.jpg 237,70,555,297,1 583,57,621,83,0 603,191,640,216,0 354,419,388,448,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1201.jpg 403,266,524,437,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1202.jpg 552,410,640,479,0 1,1,599,264,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1203.jpg 477,297,521,330,0 458,174,495,198,0 545,38,588,64,0 54,52,402,320,1 416,350,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1204.jpg 85,138,509,341,1 23,394,60,433,0 505,461,563,487,0 502,260,555,287,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1205.jpg 34,349,87,404,0 89,10,130,68,0 282,48,593,249,1 203,339,640,511,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1206.jpg 1,57,386,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1208.jpg 188,317,312,503,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1209.jpg 143,73,208,148,0 457,440,528,512,0 404,53,462,142,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1210.jpg 369,323,458,441,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1211.jpg 151,180,227,254,0 483,282,581,377,0 533,27,640,339,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1212.jpg 141,18,205,98,0 454,404,520,495,0 403,1,466,95,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1213.jpg 421,384,463,440,0 1,49,199,244,1 182,2,222,62,0 1,353,230,507,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1214.jpg 108,261,223,446,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1215.jpg 143,339,282,413,0 182,169,354,251,0 97,3,237,66,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1216.jpg 599,104,640,202,0 30,332,355,509,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1217.jpg 309,118,451,303,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1218.jpg 272,356,340,401,0 1,474,65,512,0 1,81,276,332,1 374,292,640,510,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1219.jpg 203,151,361,323,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1220.jpg 428,260,553,428,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1221.jpg 343,42,640,419,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1222.jpg 249,211,292,249,0 274,428,300,481,0 528,143,590,183,0 1,1,242,135,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1223.jpg 36,289,109,337,0 263,176,640,509,1 1,24,156,206,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1225.jpg 453,275,499,329,0 1,2,246,141,1 3,240,340,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1226.jpg 442,343,557,425,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1228.jpg 56,358,180,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1229.jpg 427,277,527,350,0 81,478,162,512,0 1,1,407,272,1 428,434,500,507,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1230.jpg 308,43,464,222,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1232.jpg 227,39,390,221,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1233.jpg 318,239,354,276,0 448,380,508,411,0 319,2,640,218,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1234.jpg 437,349,565,431,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1235.jpg 124,214,251,302,0 581,71,640,195,0 603,2,640,45,0 131,1,486,178,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1236.jpg 117,416,220,475,0 487,196,575,265,0 1,5,168,324,1 354,410,589,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1241.jpg 426,333,511,449,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1242.jpg 242,171,312,243,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1243.jpg 249,291,319,326,0 358,2,638,179,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1244.jpg 571,398,640,470,0 323,1,394,66,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1245.jpg 513,261,640,454,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1246.jpg 145,113,213,194,0 466,451,533,512,0 403,100,465,191,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1247.jpg 450,250,503,277,0 89,159,123,195,0 564,27,616,56,0 175,1,535,101,1 393,420,640,511,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1248.jpg 561,252,640,354,0 5,164,386,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1249.jpg 490,303,521,362,0 209,1,635,158,1 1,44,148,344,1 323,401,583,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1250.jpg 180,219,239,309,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1251.jpg 446,218,563,296,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1252.jpg 554,300,640,379,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1253.jpg 132,348,257,510,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1255.jpg 189,228,316,414,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1256.jpg 504,204,629,359,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1257.jpg 126,255,197,344,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1258.jpg 143,242,263,419,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1260.jpg 499,209,620,362,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1261.jpg 220,341,351,509,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1263.jpg 106,365,230,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1264.jpg 325,448,389,492,0 95,88,377,388,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1265.jpg 345,270,423,383,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1266.jpg 158,260,209,292,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1270.jpg 109,202,189,274,0 561,321,636,404,0 369,212,434,299,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1271.jpg 256,107,305,170,0 399,42,468,119,0 24,238,442,512,1 485,1,640,286,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1272.jpg 382,272,507,444,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1274.jpg 231,230,281,256,0 138,1,417,177,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1275.jpg 63,192,194,339,0 263,148,422,320,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1276.jpg 209,225,326,416,0 276,193,406,383,0 260,372,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1277.jpg 289,141,421,330,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1278.jpg 498,188,593,291,0 487,280,610,393,0 520,59,604,162,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1280.jpg 76,371,201,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1281.jpg 454,374,506,401,0 234,257,271,292,0 279,4,640,214,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1284.jpg 262,157,387,348,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1285.jpg 460,352,530,438,0 144,1,212,76,0 405,1,460,76,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1289.jpg 484,321,519,379,0 282,1,639,123,1 1,1,155,299,1 216,369,551,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1290.jpg 395,386,437,443,0 166,5,203,64,0 1,81,171,248,1 403,1,640,170,1 529,252,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1291.jpg 1,98,48,197,0 325,342,413,512,0 402,325,501,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1292.jpg 418,352,483,444,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1294.jpg 76,267,208,447,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1295.jpg 457,130,579,323,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1296.jpg 343,240,380,279,0 445,385,500,412,0 372,15,640,176,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1297.jpg 1,197,29,294,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1298.jpg 113,253,233,440,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1299.jpg 296,38,448,215,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1300.jpg 166,275,261,371,0 328,24,470,207,0 391,2,537,167,0 444,146,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1301.jpg 216,8,304,111,0 192,156,285,274,0 457,162,639,511,1 150,1,217,73,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1302.jpg 115,231,238,310,0 554,61,640,193,0 571,1,639,33,0 1,1,435,178,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1303.jpg 299,475,381,512,0 205,1,508,129,1 85,386,153,466,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1305.jpg 429,365,567,460,0 1,1,282,245,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1306.jpg 136,131,268,231,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1307.jpg 180,1,556,103,1 487,362,571,442,0 190,361,264,453,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1308.jpg 141,112,213,197,0 475,444,537,512,0 407,112,467,201,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1309.jpg 263,79,330,117,0 97,356,138,406,0 107,436,148,494,0 486,284,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1310.jpg 181,133,296,231,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1311.jpg 25,294,97,343,0 1,1,154,208,1 283,158,640,469,1 389,368,623,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1312.jpg 167,64,349,148,0 167,215,306,304,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1313.jpg 1,174,108,276,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1315.jpg 361,400,410,458,0 143,11,198,72,0 379,1,640,194,1 481,261,640,512,1 1,98,84,257,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1316.jpg 112,248,257,437,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1317.jpg 190,254,347,445,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1318.jpg 262,141,427,339,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1319.jpg 584,170,640,277,0 43,352,363,509,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1321.jpg 411,258,554,434,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1323.jpg 307,301,414,400,0 351,5,640,506,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1324.jpg 125,161,319,350,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1325.jpg 146,107,471,301,1 57,392,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1326.jpg 14,166,128,284,0 382,193,533,372,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1328.jpg 364,97,419,149,0 1,1,315,149,1 190,359,501,512,1 464,238,639,500,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1329.jpg 388,108,479,199,0 379,206,481,341,0 2,3,345,286,1 374,4,457,108,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1330.jpg 278,202,402,386,0 362,167,491,358,0 1,150,44,256,0 336,352,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1332.jpg 532,142,601,212,0 1,51,218,512,1 368,359,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1333.jpg 232,68,341,188,0 251,1,320,31,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1334.jpg 576,153,636,251,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1336.jpg 46,15,361,320,1 304,351,376,399,0 17,468,102,512,0 447,305,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1337.jpg 80,367,231,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1339.jpg 171,281,333,472,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1342.jpg 248,152,423,333,0 106,268,250,414,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1343.jpg 392,309,461,358,0 120,450,200,502,0 278,4,600,182,1 3,29,113,423,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1344.jpg 180,200,305,394,0 251,161,387,358,0 256,345,595,510,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1345.jpg 521,275,640,441,0 562,30,640,188,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1347.jpg 132,241,259,406,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1348.jpg 265,477,337,512,0 1,172,231,484,1 362,43,434,90,0 565,1,630,42,0 1,1,238,140,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1349.jpg 55,242,447,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1350.jpg 168,304,303,470,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1351.jpg 436,40,639,311,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1352.jpg 236,299,379,391,0 383,1,477,87,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1354.jpg 308,188,481,386,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1356.jpg 379,286,425,345,0 514,151,640,512,1 2,1,90,140,1 423,1,640,80,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1357.jpg 252,65,582,305,1 363,435,403,471,0 287,16,328,49,1 618,50,640,82,0 1,276,257,508,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1360.jpg 237,345,325,408,0 1,40,252,219,1 260,148,600,483,1 497,121,640,326,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1361.jpg 510,344,606,441,0 1,159,313,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1362.jpg 416,315,493,412,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1364.jpg 180,240,231,267,0 250,4,514,126,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1365.jpg 125,244,244,327,0 498,48,609,180,0 4,1,370,178,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1366.jpg 303,87,395,207,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1367.jpg 45,219,442,512,1 618,236,640,319,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1368.jpg 176,17,485,318,1 358,389,423,443,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1371.jpg 115,353,248,508,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1372.jpg 222,321,361,510,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1374.jpg 287,146,377,258,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1376.jpg 209,286,307,399,0 330,11,485,188,0 398,4,556,140,0 464,122,640,469,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1377.jpg 122,241,255,418,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1378.jpg 347,82,438,166,0 1,360,81,441,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1379.jpg 158,164,283,362,0 223,133,358,321,0 240,295,633,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1381.jpg 112,231,194,287,0 193,281,471,498,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1382.jpg 182,35,367,230,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1383.jpg 1,208,38,302,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1384.jpg 383,305,453,370,0 116,452,194,507,0 5,16,137,417,1 320,1,609,163,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1385.jpg 483,255,579,344,0 190,262,267,350,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1387.jpg 265,226,316,263,0 562,186,637,230,0 371,462,403,509,0 29,1,304,178,1 41,234,313,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1390.jpg 234,277,379,362,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1391.jpg 159,163,213,229,0 283,37,348,109,0 379,1,637,274,1 1,237,184,428,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1392.jpg 90,266,239,440,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1393.jpg 325,288,441,384,0 377,1,640,476,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1394.jpg 381,168,436,234,0 490,5,565,82,0 97,199,390,409,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1395.jpg 245,60,336,163,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1396.jpg 138,167,271,357,0 198,131,346,313,0 226,259,640,508,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1397.jpg 1,169,389,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1398.jpg 472,141,595,328,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1399.jpg 146,90,471,327,1 167,38,218,70,1 546,59,592,88,0 523,193,564,219,0 524,339,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1400.jpg 225,318,363,504,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1401.jpg 65,210,150,271,0 110,294,383,498,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1404.jpg 187,235,237,266,0 212,1,489,146,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1405.jpg 94,3,459,258,1 504,115,540,137,0 403,331,450,373,0 405,410,556,512,1 490,264,640,456,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1406.jpg 62,186,194,372,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1407.jpg 92,253,437,509,1 487,373,530,405,0 569,238,616,266,0 137,190,189,232,1 1,160,104,312,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1408.jpg 329,384,431,473,0 389,77,640,512,1 85,1,440,133,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1409.jpg 277,146,324,178,0 44,315,97,353,0 223,353,280,378,0 490,391,543,429,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1410.jpg 453,137,565,235,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1413.jpg 457,239,584,408,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1414.jpg 311,456,385,504,0 3,178,226,475,1 1,1,239,152,1 366,47,435,89,0 570,6,636,50,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1416.jpg 2,224,52,332,0 403,372,496,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1417.jpg 369,319,435,370,0 104,463,173,507,0 5,28,137,397,1 322,2,617,152,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1419.jpg 516,344,597,414,0 186,363,264,451,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1420.jpg 158,256,287,449,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1421.jpg 167,321,291,477,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1422.jpg 265,72,340,168,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1423.jpg 459,238,593,408,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1424.jpg 155,206,240,268,0 70,396,308,512,1 316,262,403,346,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1425.jpg 496,357,591,455,0 1,164,288,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1426.jpg 347,203,462,321,0 373,90,457,187,0 1,1,332,287,1 350,1,432,99,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1427.jpg 237,462,322,512,0 181,241,256,332,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1429.jpg 96,30,321,385,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1430.jpg 513,236,598,322,0 187,259,255,347,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1432.jpg 130,335,183,366,0 267,101,314,147,0 2,1,244,158,1 575,116,625,149,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1433.jpg 179,286,284,382,0 326,12,471,199,0 381,1,535,159,0 448,133,640,509,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1434.jpg 222,221,360,416,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1435.jpg 1,177,383,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1436.jpg 570,243,610,309,0 603,192,640,247,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1437.jpg 551,192,634,272,0 187,253,249,337,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1439.jpg 172,48,346,229,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1440.jpg 497,212,631,399,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1441.jpg 475,413,525,442,0 461,238,500,283,0 306,155,345,198,0 3,71,149,443,1 486,12,640,202,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1442.jpg 506,369,543,401,0 581,232,627,263,0 154,188,196,226,1 107,248,441,512,1 1,164,119,318,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1443.jpg 245,83,317,127,0 52,360,91,410,0 61,439,98,498,0 441,299,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1444.jpg 295,125,374,228,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1446.jpg 386,55,524,125,0 403,248,587,332,0 3,391,101,462,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1447.jpg 187,344,322,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1448.jpg 249,268,312,314,0 368,2,637,175,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1449.jpg 82,214,126,250,0 104,260,156,291,0 289,187,334,217,0 31,329,184,450,1 198,412,338,504,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1450.jpg 215,194,266,229,0 1,213,37,245,0 1,423,113,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1451.jpg 563,148,639,248,0 1,78,412,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1453.jpg 69,285,204,477,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1454.jpg 517,271,638,364,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1455.jpg 550,242,606,309,0 1,153,261,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1456.jpg 487,297,575,372,0 70,1,540,234,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1457.jpg 453,273,572,367,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1458.jpg 138,133,248,265,0 179,3,265,75,0 418,151,638,489,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1459.jpg 106,281,204,349,0 112,438,186,508,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1460.jpg 301,279,444,347,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1462.jpg 232,310,366,499,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1464.jpg 91,170,223,349,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1465.jpg 193,288,331,471,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1466.jpg 248,144,409,319,0 198,382,331,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1467.jpg 266,288,331,324,0 372,1,640,169,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1468.jpg 190,380,314,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1469.jpg 18,240,358,454,1 348,33,637,269,1 488,374,532,410,0 380,1,420,29,1 102,1,337,96,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1472.jpg 276,476,356,512,0 1,175,216,482,1 363,47,434,88,0 564,4,626,47,0 1,1,233,151,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1473.jpg 593,230,640,330,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1474.jpg 191,343,327,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1475.jpg 194,318,340,404,0 158,165,346,243,0 73,1,213,68,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1476.jpg 100,165,620,512,1 477,116,528,173,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1477.jpg 271,1,341,87,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1478.jpg 243,288,399,366,0 249,1,640,219,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1479.jpg 110,138,248,333,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1480.jpg 183,203,308,371,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1482.jpg 244,298,349,404,0 348,2,502,174,0 424,1,563,139,0 481,131,640,431,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1483.jpg 282,152,380,233,0 466,199,640,392,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1484.jpg 123,240,254,418,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1485.jpg 299,323,397,394,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1486.jpg 227,139,279,188,0 217,341,241,395,0 202,421,236,480,0 499,49,563,97,0 1,99,176,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1488.jpg 361,228,503,412,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1489.jpg 482,377,565,457,0 199,363,261,448,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1490.jpg 277,370,348,418,0 1,482,65,512,0 1,73,216,378,1 296,359,639,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1491.jpg 528,253,616,356,0 1,148,367,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1492.jpg 56,127,468,512,1 619,128,640,207,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1493.jpg 593,129,638,226,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1494.jpg 247,292,405,379,0 361,3,638,233,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1495.jpg 338,226,538,312,0 321,43,458,107,0 2,389,119,459,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1496.jpg 1,295,69,373,0 104,1,637,259,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1497.jpg 546,121,597,154,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1498.jpg 307,197,493,390,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1499.jpg 483,272,578,374,0 1,66,278,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1500.jpg 356,409,402,471,0 390,5,640,192,1 149,20,189,84,0 1,117,75,257,1 489,281,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1501.jpg 418,161,550,349,0 116,354,210,490,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1502.jpg 335,141,413,256,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1503.jpg 344,427,390,485,0 144,37,184,97,0 376,7,640,208,1 466,289,640,512,1 1,133,64,278,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1504.jpg 268,64,561,247,1 40,41,88,100,0 98,423,152,487,0 261,348,639,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1505.jpg 406,172,533,361,0 80,269,167,395,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1506.jpg 232,201,371,382,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1507.jpg 67,17,111,79,0 1,352,41,407,0 255,70,556,272,1 164,353,635,508,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1508.jpg 341,164,427,284,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1509.jpg 320,113,402,235,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1510.jpg 144,260,268,345,0 473,39,576,168,0 1,1,349,175,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1511.jpg 133,134,272,330,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1512.jpg 135,133,270,320,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1513.jpg 124,140,250,332,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1514.jpg 1,118,50,226,0 318,292,428,485,0 405,270,519,463,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1515.jpg 37,386,109,443,0 74,27,118,92,0 276,67,570,257,1 224,360,640,510,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1516.jpg 192,150,267,224,0 37,387,398,510,1 423,125,512,219,0 501,1,640,282,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1520.jpg 460,354,521,444,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1521.jpg 453,262,508,298,0 65,182,111,219,0 542,45,599,77,0 128,1,508,135,1 389,443,591,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1522.jpg 597,191,640,284,0 30,406,354,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1524.jpg 294,128,633,512,1 49,3,279,172,1 256,372,345,441,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1527.jpg 5,205,117,297,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1528.jpg 223,198,410,279,0 179,14,322,84,0 1,373,138,449,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1529.jpg 66,376,191,510,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1530.jpg 86,253,233,323,0 194,76,375,155,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1532.jpg 222,335,357,509,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1533.jpg 270,64,578,296,1 1,258,271,467,1 605,47,636,82,0 293,7,340,46,1 388,405,430,438,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1534.jpg 159,53,338,237,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1535.jpg 465,217,586,394,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1536.jpg 518,249,615,362,0 1,143,351,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1537.jpg 320,78,475,261,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1538.jpg 323,126,375,181,0 435,242,640,512,1 1,1,303,142,1 125,364,485,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1539.jpg 179,189,246,265,0 417,199,519,290,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1540.jpg 250,84,320,120,0 48,359,89,413,0 52,439,94,506,0 440,305,611,507,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1542.jpg 588,209,626,283,0 616,121,640,184,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1543.jpg 200,200,253,236,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1544.jpg 589,185,640,287,0 42,329,371,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1545.jpg 505,210,627,408,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1547.jpg 552,231,632,320,0 114,96,192,174,0 374,107,438,193,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1548.jpg 425,283,517,354,0 1,1,406,235,1 445,428,519,508,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1549.jpg 160,150,291,341,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1550.jpg 385,380,484,484,0 396,5,556,174,0 467,3,616,122,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1552.jpg 194,159,263,242,0 421,156,525,254,0 487,2,640,304,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1553.jpg 140,11,207,88,0 466,353,534,443,0 407,3,467,88,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1554.jpg 208,267,288,351,0 65,95,125,183,1 515,95,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1555.jpg 474,223,609,365,0 572,34,640,177,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1556.jpg 141,154,215,228,0 501,414,573,493,0 403,144,464,234,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1558.jpg 175,306,321,465,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1559.jpg 300,267,408,361,0 361,11,636,472,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1560.jpg 405,127,524,252,0 418,34,515,135,0 1,1,347,202,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1561.jpg 89,228,173,326,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1562.jpg 281,58,589,298,1 1,284,271,512,1 45,3,307,111,1 303,13,348,55,1 371,448,409,487,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1563.jpg 162,314,287,473,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1566.jpg 445,386,508,421,0 185,283,220,319,0 45,204,79,239,0 234,34,623,246,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1568.jpg 504,262,640,512,1 395,1,640,180,1 151,9,193,73,0 369,394,411,449,0 1,119,82,246,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1570.jpg 135,85,457,342,1 517,196,557,223,0 548,62,592,89,0 167,36,205,68,1 521,343,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1572.jpg 95,269,225,454,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1573.jpg 295,360,394,443,0 112,255,201,338,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1575.jpg 317,102,471,292,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1576.jpg 465,370,512,436,0 210,1,264,57,0 16,99,192,249,1 461,1,640,161,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1578.jpg 182,332,317,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1579.jpg 113,165,236,307,0 242,47,421,222,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1581.jpg 406,260,540,433,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1582.jpg 511,239,560,290,0 363,471,423,506,0 33,86,232,421,1 523,14,640,185,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1583.jpg 429,235,466,276,0 460,402,519,436,0 454,8,640,175,1 1,79,112,421,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1584.jpg 238,216,391,309,0 141,78,323,168,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1585.jpg 317,114,412,213,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1586.jpg 562,385,637,453,0 489,2,591,93,0 1,1,283,211,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1587.jpg 17,188,131,283,0 95,3,640,368,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1588.jpg 45,92,221,414,1 524,245,562,285,0 355,472,403,512,0 531,14,640,179,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1589.jpg 311,349,382,397,0 27,462,104,510,0 284,363,636,512,1 1,74,210,373,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1590.jpg 264,69,338,105,0 148,341,185,392,0 167,420,210,474,0 1,158,136,512,1 535,263,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1591.jpg 199,283,325,479,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1592.jpg 273,105,363,208,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1593.jpg 164,199,288,366,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1594.jpg 146,321,276,485,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1595.jpg 165,384,213,418,0 602,285,640,320,0 276,1,638,250,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1597.jpg 188,271,360,469,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1598.jpg 185,41,358,225,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1600.jpg 527,259,602,350,0 138,56,211,134,0 401,56,462,147,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1601.jpg 253,215,322,257,0 296,436,324,489,0 538,149,606,201,0 1,1,257,148,1 1,203,251,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1602.jpg 513,239,604,335,0 1,72,326,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1603.jpg 587,215,640,313,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1604.jpg 514,260,639,461,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1605.jpg 203,285,355,375,0 291,2,373,44,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1606.jpg 414,277,469,336,0 1,2,128,134,1 546,150,640,460,1 457,1,640,62,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1607.jpg 503,222,635,418,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1609.jpg 272,57,572,247,1 263,340,640,512,1 97,425,172,487,0 44,41,88,105,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1610.jpg 128,338,281,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1611.jpg 320,378,416,512,0 400,347,496,512,0 1,231,55,333,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1612.jpg 172,199,326,356,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1613.jpg 399,140,574,243,0 291,1,429,74,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1614.jpg 385,266,512,448,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1615.jpg 161,286,212,317,0 448,181,640,398,1 39,43,243,185,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1617.jpg 449,244,580,415,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1619.jpg 109,117,240,249,0 407,123,640,486,1 158,1,223,42,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1620.jpg 274,146,367,251,0 1,152,134,511,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1621.jpg 222,45,385,222,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1622.jpg 297,136,453,329,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1623.jpg 276,66,345,94,0 195,333,230,382,0 217,410,256,463,0 1,140,185,512,1 572,246,640,465,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1624.jpg 192,24,259,102,0 74,179,124,245,0 282,3,562,267,1 1,223,87,409,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1625.jpg 579,226,618,255,0 509,358,545,388,0 119,245,460,507,1 1,161,121,301,1 154,183,199,225,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1626.jpg 238,139,290,198,0 367,31,435,102,0 4,236,272,437,1 463,1,640,269,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1627.jpg 143,31,252,156,0 409,38,640,411,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1629.jpg 75,283,206,465,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1630.jpg 543,230,640,411,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1631.jpg 83,371,205,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1632.jpg 243,36,430,221,0 151,221,295,367,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1633.jpg 69,273,100,309,0 291,285,346,328,0 220,137,265,173,0 126,425,293,512,1 492,332,549,363,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1634.jpg 478,272,529,300,0 515,62,558,93,0 35,197,71,235,0 109,1,488,148,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1636.jpg 142,237,267,403,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1637.jpg 250,420,284,466,0 512,123,572,177,0 236,200,289,245,0 2,203,197,512,1 1,1,214,119,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1639.jpg 261,166,314,201,0 44,208,108,231,0 66,403,220,495,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1641.jpg 185,328,332,511,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1642.jpg 1,175,352,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1643.jpg 564,175,640,349,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1644.jpg 581,271,639,359,0 41,1,394,226,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1645.jpg 265,419,355,503,0 153,241,242,335,1 477,309,640,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1646.jpg 203,198,314,273,0 329,279,589,486,1 521,155,590,241,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1647.jpg 270,377,339,416,0 6,481,60,512,0 4,63,225,376,1 265,317,640,510,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1648.jpg 180,241,239,280,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1649.jpg 565,282,639,370,0 1,1,152,132,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1650.jpg 201,335,376,509,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1651.jpg 268,72,328,171,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1652.jpg 566,409,640,507,0 1,157,301,512,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1655.jpg 138,242,263,411,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1656.jpg 507,46,640,225,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1657.jpg 377,241,558,322,0 351,47,489,118,0 1,395,112,462,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1658.jpg 186,200,309,357,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1660.jpg 348,26,477,178,0 590,46,640,162,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1662.jpg 349,96,460,221,0 370,1,461,88,0 1,1,270,182,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1665.jpg 186,153,351,329,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1668.jpg 94,368,222,512,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1669.jpg 153,345,225,436,0 87,9,147,96,1 588,80,640,463,1
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1670.jpg 373,217,501,401,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1671.jpg 325,271,429,465,0 400,249,503,440,0 1,128,52,227,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1672.jpg 538,249,640,345,0
+C:\Users\ASUS\Desktop\毕业设计\faster-rcnn-pytorch\VOCdevkit/VOC2007/JPEGImages/1673.jpg 514,48,640,223,0
