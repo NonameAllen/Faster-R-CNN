@@ -1,7 +1,9 @@
 import torch.nn as nn
 
 from nets.classifier import Resnet50RoIHead, VGG16RoIHead
-from nets.resnet50 import resnet50
+from nets.resnetRGA import resnetRGA
+from nets.resnetCBAM import resnetCBAM
+from nets.resnet import resnet50
 from nets.rpn import RegionProposalNetwork
 from nets.vgg16 import decom_vgg16
 
@@ -43,6 +45,48 @@ class FasterRCNN(nn.Module):
             )
         elif backbone == 'resnet50':
             self.extractor, classifier = resnet50(pretrained)
+            #---------------------------------#
+            #   构建classifier网络
+            #---------------------------------#
+            self.rpn = RegionProposalNetwork(
+                1024, 512,
+                ratios          = ratios,
+                anchor_scales   = anchor_scales,
+                feat_stride     = self.feat_stride,
+                mode            = mode
+            )
+            #---------------------------------#
+            #   构建classifier网络
+            #---------------------------------#
+            self.head = Resnet50RoIHead(
+                n_class         = num_classes + 1,
+                roi_size        = 14,
+                spatial_scale   = 1,
+                classifier      = classifier
+            )
+        elif backbone == 'resnetRGA':
+            self.extractor, classifier = resnetRGA(pretrained)
+            #---------------------------------#
+            #   构建classifier网络
+            #---------------------------------#
+            self.rpn = RegionProposalNetwork(
+                1024, 512,
+                ratios          = ratios,
+                anchor_scales   = anchor_scales,
+                feat_stride     = self.feat_stride,
+                mode            = mode
+            )
+            #---------------------------------#
+            #   构建classifier网络
+            #---------------------------------#
+            self.head = Resnet50RoIHead(
+                n_class         = num_classes + 1,
+                roi_size        = 14,
+                spatial_scale   = 1,
+                classifier      = classifier
+            )
+        elif backbone == 'resnetCBAM':
+            self.extractor, classifier = resnetCBAM(pretrained)
             #---------------------------------#
             #   构建classifier网络
             #---------------------------------#

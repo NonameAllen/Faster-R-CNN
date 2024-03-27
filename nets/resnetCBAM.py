@@ -1,5 +1,8 @@
+import math
+
 import torch
 import torch.nn as nn
+from torch.hub import load_state_dict_from_url
 import torch.nn.functional as F
 
 class ChannelAttention(nn.Module):
@@ -49,11 +52,50 @@ class CBAM(nn.Module):
         
         return out
 
+
+class Bottleneck(nn.Module):
+    expansion = 4
+    def __init__(self, inplanes, planes, stride=1, downsample=None):
+        super(Bottleneck, self).__init__()
+        self.conv1 = nn.Conv2d(inplanes, planes, kernel_size=1, stride=stride, bias=False)
+        self.bn1 = nn.BatchNorm2d(planes)
+
+        self.conv2 = nn.Conv2d(planes, planes, kernel_size=3, stride=1, padding=1, bias=False)
+        self.bn2 = nn.BatchNorm2d(planes)
+
+        self.conv3 = nn.Conv2d(planes, planes * 4, kernel_size=1, bias=False)
+        self.bn3 = nn.BatchNorm2d(planes * 4)
+
+        self.relu = nn.ReLU(inplace=True)
+        self.downsample = downsample
+        self.stride = stride
+
+    def forward(self, x):
+        residual = x
+
+        out = self.conv1(x)
+        out = self.bn1(out)
+        out = self.relu(out)
+
+        out = self.conv2(out)
+        out = self.bn2(out)
+        out = self.relu(out)
+
+        out = self.conv3(out)
+        out = self.bn3(out)
+        if self.downsample is not None:
+            residual = self.downsample(x)
+
+        out += residual
+        out = self.relu(out)
+
+        return out
+
 # 在ResNet的基础上加入CBAM模块
 class ResNetCBAM(nn.Module):
     def __init__(self, block, layers, num_classes=1000, ratio=16, kernel_size=7):
-        super(ResNetCBAM, self).__init__()
         self.in_planes = 64
+        super(ResNetCBAM, self).__init__()
         self.conv1 = nn.Conv2d(3, 64, kernel_size=7, stride=2, padding=3, bias=False)
         self.bn1 = nn.BatchNorm2d(64)
         self.relu = nn.ReLU(inplace=True)
@@ -103,3 +145,21 @@ class ResNetCBAM(nn.Module):
         out = self.cbam(out)
         
         return out
+    
+def resnetCBAM(pretrained = False):
+    model = ResNetCBAM(Bottleneck, [3, 4, 6, 3])
+    if pretrained:
+        state_dict = load_state_dict_from_url("https://download.pytorch.org/models/resnet50-19c8e357.pth", model_dir="./model_data")
+        model.load_state_dict(state_dict)
+    #----------------------------------------------------------------------------#
+    #   获取特征提取部分，从conv1到model.layer3，最终获得一个38,38,1024的特征层
+    #----------------------------------------------------------------------------#
+    features    = list([model.conv1, model.bn1, model.relu, model.maxpool, model.layer1, model.layer2, model.layer3])
+    #----------------------------------------------------------------------------#
+    #   获取分类部分，从model.layer4到model.avgpool
+    #----------------------------------------------------------------------------#
+    classifier  = list([model.layer4, model.avgpool])
+    
+    features    = nn.Sequential(*features)
+    classifier  = nn.Sequential(*classifier)
+    return features, classifier
