@@ -5,6 +5,7 @@ import torch.nn as nn
 from torch.hub import load_state_dict_from_url
 import torch.nn.functional as F
 
+#   通道机制
 class ChannelAttention(nn.Module):
     def __init__(self, in_planes, ratio=16):
         super(ChannelAttention, self).__init__()
@@ -25,6 +26,7 @@ class ChannelAttention(nn.Module):
         
         return out
 
+#   空间机制
 class SpatialAttention(nn.Module):
     def __init__(self, kernel_size=7):
         super(SpatialAttention, self).__init__()
@@ -41,6 +43,7 @@ class SpatialAttention(nn.Module):
         
         return out
 
+#   CBAM注意力机制
 class CBAM(nn.Module):
     def __init__(self, in_planes, ratio=16, kernel_size=7):
         super(CBAM, self).__init__()
