@@ -103,7 +103,7 @@ _defaults = {
     "model_path"    : 'model_data/voc_weights_resnet.pth',
     "classes_path"  : 'model_data/voc_classes.txt',
     #---------------------------------------------------------------------#
-    #   网络的主干特征提取网络，resnet50或者vgg
+    #   网络的主干特征提取网络，vgg、resnet50、resnetRGA、resnetCBAM、ResNeXt50
     #---------------------------------------------------------------------#
     "backbone"      : "resnet50",
     #---------------------------------------------------------------------#
@@ -148,3 +148,4 @@ img/street.jpg
 https://github.com/chenyuntc/simple-faster-rcnn-pytorch  
 https://github.com/eriklindernoren/PyTorch-YOLOv3  
 https://github.com/BobLiu20/YOLOv3_PyTorch  
+https://github.com/bubbliiiing/faster-rcnn-pytorch
