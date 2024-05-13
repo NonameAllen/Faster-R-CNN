@@ -6,6 +6,7 @@ from nets.resnetCBAM import resnetCBAM
 from nets.resnetECA import resnetECA
 from nets.resnet import resnet50
 from nets.ResNeXt50 import resnext
+from nets.ResNeXtCBAM import resnext50_cbam
 from nets.rpn import RegionProposalNetwork
 from nets.vgg16 import decom_vgg16
 
@@ -19,6 +20,7 @@ class FasterRCNN(nn.Module):
                     backbone = 'vgg',
                     pretrained = False):
         super(FasterRCNN, self).__init__()
+        
         self.feat_stride = feat_stride
         #---------------------------------#
         #   一共存在两个主干
@@ -148,7 +150,28 @@ class FasterRCNN(nn.Module):
                 n_class         = num_classes + 1,
                 roi_size        = 14,
                 spatial_scale   = 1,
-                classifier      = classifier
+                classifier      = classifier  # 使用ResNeXt的全连接层作为分类器
+            )
+        elif backbone == 'resnextcbam':
+            self.extractor, classifier = resnext50_cbam(pretrained)
+            #---------------------------------#
+            #   构建classifier网络
+            #---------------------------------#
+            self.rpn = RegionProposalNetwork(
+                1024, 512,
+                ratios          = ratios,
+                anchor_scales   = anchor_scales,
+                feat_stride     = self.feat_stride,
+                mode            = mode
+            )
+            #---------------------------------#
+            #   构建classifier网络
+            #---------------------------------#
+            self.head = Resnet50RoIHead(
+                n_class         = num_classes + 1,
+                roi_size        = 14,
+                spatial_scale   = 1,
+                classifier      = classifier  # 使用ResNeXt的全连接层作为分类器
             )
             
     def forward(self, x, scale=1., mode="forward"):

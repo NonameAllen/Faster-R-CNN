@@ -4,6 +4,7 @@ import torch
 import torch.nn as nn
 from torch.hub import load_state_dict_from_url
 
+#  ECA注意力机制
 class ECA_Module(nn.Module):
     def __init__(self, channel, gamma=2, b=1):
         super(ECA_Module, self).__init__()
