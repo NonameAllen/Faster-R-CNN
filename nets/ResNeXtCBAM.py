@@ -3,6 +3,8 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.hub import load_state_dict_from_url
 
+#   CBAM注意力机制
+#定义了通道注意力机制，通过平均池化和最大池化操作，结合全连接层和Sigmoid激活函数来学习通道间的重要性权重。
 class ChannelAttention(nn.Module):
     def __init__(self, in_planes, ratio=16):
         super(ChannelAttention, self).__init__()
@@ -20,7 +22,9 @@ class ChannelAttention(nn.Module):
         max_out = self.fc(self.max_pool(x).view(x.size(0), x.size(1)))
         out = avg_out + max_out
         return self.sigmoid(out).unsqueeze(2).unsqueeze(3)
+    
 
+#定义了空间注意力机制，通过卷积操作和Sigmoid激活函数来学习空间位置的重要性权重。
 class SpatialAttention(nn.Module):
     def __init__(self, kernel_size=7):
         super(SpatialAttention, self).__init__()
@@ -34,6 +38,8 @@ class SpatialAttention(nn.Module):
         out = self.conv(out)
         return self.sigmoid(out)
 
+
+#   定义了ResNeXt中的瓶颈模块，包括了卷积层、批归一化层、激活函数、通道注意力模块和空间注意力模块，实现了残差连接和注意力机制的结合。
 class Bottleneck(nn.Module):
     expansion = 4
 
@@ -77,6 +83,8 @@ class Bottleneck(nn.Module):
 
         return out
 
+
+#   定义了整个ResNeXt模型的结构，包括了卷积层、批归一化层、残差块等组件，并通过_make_layer方法构建不同层数的残差块。
 class ResNeXt(nn.Module):
     def __init__(self, block, layers, num_classes=1000, cardinality=32):
         self.cardinality = cardinality
