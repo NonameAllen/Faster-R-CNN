@@ -152,7 +152,7 @@ class FasterRCNN(nn.Module):
                 spatial_scale   = 1,
                 classifier      = classifier  # 使用ResNeXt的全连接层作为分类器
             )
-        elif backbone == 'resnextcbam':
+        elif backbone == 'resnextCBAM':
             self.extractor, classifier = resnext50_cbam(pretrained)
             #---------------------------------#
             #   构建classifier网络
